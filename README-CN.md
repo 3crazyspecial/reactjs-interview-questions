@@ -7,8 +7,8 @@
 | 序号 | 问题 |
 | --- | --------- |
 |   | **React 核心** |
-|1  | [什么是 React?](#what-is-react) |
-|2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
+|1  | [什么是 React](#what-is-react) |
+|2  | [React 有什么主要的特性](#what-are-the-major-features-of-react) |
 |3  | [What is JSX?](#what-is-jsx) |
 |4  | [What is the difference between Element and Component?](#what-is-the-difference-between-element-and-component) |
 |5  | [How to create components in React?](#how-to-create-components-in-react) |
@@ -343,14 +343,14 @@
 
 
     
-1. ### 什么是 React?
+1. ### 什么是 React
 
     React 是一个用于构建用户界面特别是单页应用的**前端 JavaScript 库**，它是开源的。它关注和处理 web 和移动 APP 的视图层。React 的 Facebook 的软件工程师 [Jordan Walke](https://github.com/jordwalke) 所创立的，2011 年首次用于 Facebook 的新闻推送，之后在 2012 年也在 Instagram 开始使用。
 
 
    **[⬆ 返回顶部](#table-of-contents)**
     
-2. ### What are the major features of React?
+2. ### React 有什么主要的特性
 
     The major features of React are:
 
@@ -359,8 +359,15 @@
     * Follows **Unidirectional** data flow or data binding.
     * Uses **reusable/composable** UI components to develop the view.
 
+    React 的主要特性有：
 
-   **[⬆ Back to Top](#table-of-contents)**
+    * 由于直接操作 DOM 成本较大，React 使用用**虚拟 DOM** 代替真实 DOM
+    * 支持**服务端渲染**
+    * 遵循**单向**数据流或数据绑定
+    * 组件可复用，可组合进行开发
+
+
+   **[⬆ 返回顶部](#table-of-contents)**
     
 3. ### What is JSX?
 
