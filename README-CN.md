@@ -1,12 +1,12 @@
 # 关于 React 的面试问题 & 答案
 
-> 这是 fork 于[reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions), 作者是[@SudheerJonna](https://twitter.com/SudheerJonna)，本 repo 提供中文翻译版本，如有错误请指出，大家共同学习
+> 这是 fork 于 [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions), 作者是 [@SudheerJonna](https://twitter.com/SudheerJonna)，本 repo 提供中文翻译版本，如有错误请指出，大家共同学习
 
-### Table of Contents
+### 问题列表
 
-| No. | Questions |
+| 序号 | 问题 |
 | --- | --------- |
-|   | **Core React** |
+|   | **React 核心** |
 |1  | [什么是 React?](#what-is-react) |
 |2  | [What are the major features of React?](#what-are-the-major-features-of-react) |
 |3  | [What is JSX?](#what-is-jsx) |
@@ -339,16 +339,16 @@
 |323| [What is the difference between Imperative and Declarative in React?](#what-is-the-difference-between-imperative-and-declarative-in-react)|
 |324| [What are the benefits of using typescript with reactjs?](#what-are-the-benefits-of-using-typescript-with-reactjs)|
 
-## Core React
+## React 核心
 
 
     
-1. ### 什么是 React ?
+1. ### 什么是 React?
 
     React 是一个用于构建用户界面特别是单页应用的**前端 JavaScript 库**，它是开源的。它关注和处理 web 和移动 APP 的视图层。React 的 Facebook 的软件工程师 [Jordan Walke](https://github.com/jordwalke) 所创立的，2011 年首次用于 Facebook 的新闻推送，之后在 2012 年也在 Instagram 开始使用。
 
 
-   **[⬆ Back to Top](#table-of-contents)**
+   **[⬆ 返回顶部](#table-of-contents)**
     
 2. ### What are the major features of React?
 
